@@ -15,18 +15,20 @@ export default function Home() {
           alt="Save Restricted Messages"
         />
         <p class="my-6">
-          ⚡️ This bot will help you to Get and Share Restricted Messages ⚡️
+          <p class="text-h6">
+          ⚡️ This bot will help you to Get and Share Restricted Messages ⚡️<br />
+          </p>
 
-          🔰 Supports Public
-          🔰 Supports Channels and Groups
+          🔰 Supports Public <br />
+          🔰 Supports Channels and Groups <br />
 
 
-          📌 Join @Save_Restricted_Messages Before Sending any Link.
+          📌 Join @Save_Restricted_Messages Before Sending any Link. <br />
 
-          🔞 NO ADULT Content is Allowed 🚫, or You will Get a Ban 🙅‍♂️
+          🔞 NO ADULT Content is Allowed 🚫, or You will Get a Ban 🙅‍♂️ <br />
 
-          Bot: https://t.me/saveRestrictedMessagesBot
-          Support: https://t.me/@only1moso
+          Bot: https://t.me/saveRestrictedMessagesBot <br />
+          Support: https://t.me/@only1moso <br />
         </p>
       </div>
     </>
