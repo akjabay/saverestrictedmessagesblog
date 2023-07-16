@@ -27,8 +27,8 @@ export default function Home() {
 
           🔞 NO ADULT Content is Allowed 🚫, or You will Get a Ban 🙅‍♂️ <br />
 
-          Bot: https://t.me/saveRestrictedMessagesBot <br />
-          Support: https://t.me/@only1moso <br />
+          Bot: <a href="https://t.me/saveRestrictedMessagesBot">saveRestrictedMessagesBot</a> <br />
+          Support: <a href="https://t.me/only1moso">only1moso</a> <br />
         </p>
       </div>
     </>
